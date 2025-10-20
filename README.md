@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Izeeshan Ahmed Khan
+# 👋 Hi, I'm Zeeshan Ahmed Khan
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
